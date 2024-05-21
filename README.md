@@ -1,6 +1,6 @@
 <p align="center">
 <img src="/images/pic1.png" alt="profile1" 
-width="300" height="300">
+width="260" height="260">
 </p>
 
 <h2>Technologies and Tools</h2>
