@@ -3,6 +3,16 @@
 width="200" height="200">
 </p>
 
+<h1>Hello hello hello 👋</h1>
+
+<p align="center">
+I'm Quang, a web developer from Vietnam
+</p>
+
+<p align="center">
+🚀 I'm working with NextJS at the moment 
+</p>
+
 ## Skills
 
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -39,6 +49,6 @@ width="200" height="200">
 <img align="right" src="/images/pic2.png" alt="profile2" 
 width="240" height="240">
 
-🧑‍💻 I've finished the project [PCA-Generator](https://pca-generator.vercel.app/) recently
+🧑‍💻 I've finished the project **[PCA-Generator](https://pca-generator.vercel.app/)** recently
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangnvo&" alt="quangnvo" /></p>
