@@ -3,6 +3,13 @@
 width="260" height="260">
 </p>
 
+<h1 align="center">Hi 👋, I'm Quang</h1>
+<h3 align="center">A passionate web developer from Vietnam</h3>
+
+- 🧑‍💻 I've finished the project [PCA-Generator](https://pca-generator.vercel.app/)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangnvo&" alt="quangnvo" /></p>
+
 <h2>Technologies and Tools</h2>
 <br>
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
