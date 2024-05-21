@@ -52,6 +52,5 @@ I'm Quang, a web developer from Vietnam
 width="240" height="240">
 
 🧑‍💻 I've finished the project **[PCA-Generator](https://pca-generator.vercel.app/)** recently
-🧑‍💻 I've finished the project **<a href="https://pca-generator.vercel.app/" target="_blank">PCA-Generator</a>** recently
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangnvo&" alt="quangnvo" /></p>
