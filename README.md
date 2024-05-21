@@ -3,17 +3,7 @@
 width="200" height="200">
 </p>
 
-<h1 align="center">Hi 👋, I'm Quang</h1>
-
-<h2>About me</h2>
-<br>
-
-<img align="right" src="/images/pic2.png" alt="profile2" 
-width="200" height="200">
-
-🧑‍💻 I've finished the project [PCA-Generator](https://pca-generator.vercel.app/) recently
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangnvo&" alt="quangnvo" /></p>
+<p align="center">Hi 👋, I'm Quang</p>
 
 <h2>Technologies and Tools</h2>
 <br>
@@ -45,3 +35,13 @@ width="200" height="200">
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+
+<h2>About me</h2>
+<br>
+
+<img align="right" src="/images/pic2.png" alt="profile2" 
+width="250" height="250">
+
+🧑‍💻 I've finished the project [PCA-Generator](https://pca-generator.vercel.app/) recently
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangnvo&" alt="quangnvo" /></p>
