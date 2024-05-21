@@ -3,7 +3,7 @@
 width="200" height="200">
 </p>
 
-<h1>Hello hello hello 👋</h1>
+<h1 align="center">Hello hello hello 👋</h1>
 
 <p align="center">
 I'm Quang, a web developer from Vietnam
@@ -27,6 +27,8 @@ I'm Quang, a web developer from Vietnam
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/NextJS-282C34?logo=nextdotjs&logoColor=E34F26%27" alt="NextJS logo" title="NextJS" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
@@ -44,7 +46,7 @@ I'm Quang, a web developer from Vietnam
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
-## Other information 
+## Other information
 
 <img align="right" src="/images/pic2.png" alt="profile2" 
 width="240" height="240">
