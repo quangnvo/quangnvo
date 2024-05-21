@@ -3,8 +3,6 @@
 width="200" height="200">
 </p>
 
-<p align="center">Hi 👋, I'm Quang</p>
-
 <h2>Technologies and Tools</h2>
 <br>
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
