@@ -1,6 +1,6 @@
 <p align="center">
 <img src="/images/pic1.png" alt="profile1" 
-width="250" height="250">
+width="200" height="200">
 </p>
 
 <h1 align="center">Hi 👋, I'm Quang</h1>
