@@ -4,10 +4,12 @@ width="200" height="200">
 </p>
 
 <h1 align="center">Hi 👋, I'm Quang</h1>
-<h3 align="center">A passionate web developer from Vietnam</h3>
+
+<h2>About me</h2>
+<br>
 
 <img align="right" src="/images/pic2.png" alt="profile2" 
-width="250" height="250">
+width="200" height="200">
 
 🧑‍💻 I've finished the project [PCA-Generator](https://pca-generator.vercel.app/) recently
 
