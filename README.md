@@ -1,12 +1,15 @@
 <p align="center">
 <img src="/images/pic1.png" alt="profile1" 
-width="260" height="260">
+width="250" height="250">
 </p>
 
 <h1 align="center">Hi 👋, I'm Quang</h1>
 <h3 align="center">A passionate web developer from Vietnam</h3>
 
-- 🧑‍💻 I've finished the project [PCA-Generator](https://pca-generator.vercel.app/)
+<img align="right" src="/images/pic2.png" alt="profile2" 
+width="250" height="250">
+
+🧑‍💻 I've finished the project [PCA-Generator](https://pca-generator.vercel.app/) recently
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangnvo&" alt="quangnvo" /></p>
 
