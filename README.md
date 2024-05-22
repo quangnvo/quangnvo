@@ -3,10 +3,10 @@
 width="200" height="200">
 </p>
 
-<h1 align="center">Hello 👋</h1>
+<h1 align="center">Hi, I'm Quang 👋</h1>
 
 <p align="center">
-I'm Quang, a web developer from Vietnam
+🧑‍💻 A web developer from Vietnam
 </p>
 
 <p align="center">
@@ -51,6 +51,6 @@ I'm Quang, a web developer from Vietnam
 <img align="right" src="/images/pic2.png" alt="profile2" 
 width="240" height="240">
 
-🧑‍💻 I've finished the project **[PCA-Generator](https://pca-generator.vercel.app/)** recently
+🎉 I've finished the project **[PCA-Generator](https://pca-generator.vercel.app/)** recently
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangnvo&" alt="quangnvo" /></p>
