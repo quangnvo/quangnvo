@@ -64,6 +64,5 @@ width="240" height="240">
 ## My favorite quote
 
 <p align="center">
-<img src="/images/quote.png" alt="quote" 
-width="846" height="150">
+<img src="/images/quote.png" alt="quote">
 </p>
