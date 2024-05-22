@@ -13,6 +13,8 @@ width="200" height="200">
 🚀 I'm working with NextJS at the moment 
 </p>
 
+<p>&nbsp;</p>
+
 ## Skills
 
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -45,6 +47,8 @@ width="200" height="200">
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+
+<p>&nbsp;</p>
 
 ## Other information
 
