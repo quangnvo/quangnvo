@@ -61,7 +61,7 @@ width="240" height="240">
 
 <p>&nbsp;</p>
 
-## My favorite quote
+## My favourite quote
 
 <p align="center">
 <img src="/images/quote.png" alt="quote">
