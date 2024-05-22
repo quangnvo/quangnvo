@@ -58,3 +58,12 @@ width="240" height="240">
 🎉 I've finished the project **[PCA-Generator](https://pca-generator.vercel.app/)** recently
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangnvo&" alt="quangnvo" /></p>
+
+<p>&nbsp;</p>
+
+## My favorite quote
+
+<p align="center">
+<img src="/images/quote.png" alt="quote" 
+width="846" height="170">
+</p>
