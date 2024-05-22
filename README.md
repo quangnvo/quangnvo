@@ -65,5 +65,5 @@ width="240" height="240">
 
 <p align="center">
 <img src="/images/quote.png" alt="quote" 
-width="846" height="170">
+width="846" height="150">
 </p>
