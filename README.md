@@ -3,7 +3,7 @@
 width="200" height="200">
 </p>
 
-<h1 align="center">Hi, I'm Quang <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
+<h1 align="center">Hi, I'm Quang <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="40"/> </h1>
 
 <p align="center">
 🧑‍💻 A web developer from Vietnam
