@@ -10,7 +10,7 @@ width="200" height="200">
 </p>
 
 <p align="center">
-🚀 I'm working with NextJS at the moment 
+🚀 I'm working with Golang at the moment 
 </p>
 
 <p>&nbsp;</p>
