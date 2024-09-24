@@ -9,9 +9,9 @@ width="200" height="200">
 🧑‍💻 A web developer from Vietnam
 </p>
 
-<p align="center">
+<!-- <p align="center">
 🚀 I'm working with Golang at the moment 
-</p>
+</p> -->
 
 <p>&nbsp;</p>
 
