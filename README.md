@@ -10,7 +10,7 @@ width="200" height="200">
 </p>
 
 <!-- <p align="center">
-🚀 I'm working with Golang at the moment 
+🚀 I'm working with Golang at the moment
 </p> -->
 
 <p>&nbsp;</p>
@@ -50,9 +50,10 @@ width="200" height="200">
 
 <p>&nbsp;</p>
 
-
-<img align="center" src="/images/pic2.png" alt="profile2" 
+<p align="center">
+<img src="/images/pic2.png" alt="profile2" 
 width="240" height="240">
+</p>
 
 <!-- 🎉 I've finished the project **[PCA-Generator](https://pca-generator.vercel.app/)** recently -->
 
