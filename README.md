@@ -51,7 +51,7 @@ width="200" height="200">
 <p>&nbsp;</p>
 
 
-<img align="right" src="/images/pic2.png" alt="profile2" 
+<img align="center" src="/images/pic2.png" alt="profile2" 
 width="240" height="240">
 
 <!-- 🎉 I've finished the project **[PCA-Generator](https://pca-generator.vercel.app/)** recently -->
