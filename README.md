@@ -50,14 +50,13 @@ width="200" height="200">
 
 <p>&nbsp;</p>
 
-## Other information
 
 <img align="right" src="/images/pic2.png" alt="profile2" 
 width="240" height="240">
 
-🎉 I've finished the project **[PCA-Generator](https://pca-generator.vercel.app/)** recently
+<!-- 🎉 I've finished the project **[PCA-Generator](https://pca-generator.vercel.app/)** recently -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangnvo&" alt="quangnvo" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangnvo&" alt="quangnvo" /></p> -->
 
 <p>&nbsp;</p>
 
